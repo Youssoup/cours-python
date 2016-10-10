@@ -18,7 +18,7 @@ Je suis souvent (tout le temps) sur le campus, vous pouvez me poser vos question
     
   - Option 3:
   
-    Si vous venez pas aux cours suivants et ne voulez rien installer, vous pouvez utiliser la console [IPython](https://www.tutorialspoint.com/ipython_terminal_online.php) (machin? pour avoir l'aide sur machin) ou un [IDLE online](https://pythonroom.com/).
+    Si vous venez pas aux cours suivants et ne voulez rien installer, vous pouvez utiliser la console [IPython](https://www.tutorialspoint.com/ipython_terminal_online.php) (taper x? pour avoir l'aide sur x) ou un [IDLE online](https://pythonroom.com/).
 
 3. Faites quelques exercices de la zone Elementary sur [CheckIO](https://py.checkio.org/).
 
