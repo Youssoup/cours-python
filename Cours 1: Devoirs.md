@@ -26,4 +26,4 @@ Je suis souvent (tout le temps) sur le campus, vous pouvez me poser vos question
 
    Alternativement, vous pouvez aller lire la docu sur [python.org](https://docs.python.org/3/library/index.html) (e.g. pour les [str](https://docs.python.org/3/library/stdtypes.html#str.replace)).
 
-5. Si vous avez une question sur le cours, si vous trouvez que Python est trop difficie, si vous arrivez pas à installer, etc., venez me voir.
+5. Si vous avez une question sur le cours, si vous trouvez que Python est trop difficile, si vous arrivez pas à installer, etc., venez me voir.
