@@ -26,16 +26,24 @@ Je suis souvent (tout le temps) sur le campus, vous pouvez me poser vos question
     - Définir mentalement un algorithme qui résoudrait l'exercice
     - Voir si des fonctions utiles existent dans la standard library
       - E.g. ne faites pas un dict pour mettre tous les nt d'une seq en minuscule, vous avez:
+          
+          ```python
           seq.lower()
+          ```
+          
       - E.g. ne faites pas une factorielle à la main, vous avez
+          
+          ```python
           from math import factorial
           print(factorial(x))
+          ```
+          
     - Résoudre l'exercice
     - Lire les solutions des autres
     
 
 4. Si vous avez installé un IDE, vous aurez accès à la liste de toutes les méthodes pou chaque objet et la documentation correspondante.
 
-   Alternativement, vous pouvez aller lire la docu sur [python.org](https://docs.python.org/3/library/index.html) (e.g. pour les [str](https://docs.python.org/3/library/stdtypes.html#str.replace)).
+   Alternativement, vous pouvez lire la docu sur [python.org](https://docs.python.org/3/library/index.html) (e.g. pour les [str](https://docs.python.org/3/library/stdtypes.html#str.replace)).
 
 5. Si vous avez une question sur le cours, si vous trouvez que Python est trop difficile, si vous arrivez pas à installer, etc., venez me voir.
