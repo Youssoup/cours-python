@@ -21,6 +21,18 @@ Je suis souvent (tout le temps) sur le campus, vous pouvez me poser vos question
     Si vous venez pas aux cours suivants et ne voulez rien installer, vous pouvez utiliser la console [IPython](https://www.tutorialspoint.com/ipython_terminal_online.php) (taper x? pour avoir l'aide sur x) ou un [IDLE online](https://pythonroom.com/).
 
 3. Faites quelques exercices de la zone Elementary sur [CheckIO](https://py.checkio.org/).
+   
+   Workflow:
+    - Définir mentalement un algorithme qui résoudrait l'exercice
+    - Voir si des fonctions utiles existent dans la standard library
+      - E.g. ne faites pas un dict pour mettre tous les nt d'une seq en minuscule, vous avez:
+          seq.lower()
+      - E.g. ne faites pas une factorielle à la main, vous avez
+          from math import factorial
+          print(factorial(x))
+    - Résoudre l'exercice
+    - Lire les solutions des autres
+    
 
 4. Si vous avez installé un IDE, vous aurez accès à la liste de toutes les méthodes pou chaque objet et la documentation correspondante.
 
