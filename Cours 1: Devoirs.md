@@ -31,7 +31,7 @@ Je suis souvent (tout le temps) sur le campus, vous pouvez me poser vos question
           seq.lower()
           ```
           
-      - E.g. ne faites pas une factorielle à la main, vous avez
+      - E.g. ne faites pas une factorielle à la main, vous avez:
           
           ```python
           from math import factorial
