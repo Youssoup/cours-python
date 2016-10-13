@@ -2,4 +2,4 @@
 
 Cours et devoirs.
 
-***La salle pour le cours de samedi sera postée ici.***
+***Cours 2 => C1 Delwaulle.***
