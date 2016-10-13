@@ -25,7 +25,7 @@ Je suis souvent (tout le temps) sur le campus, vous pouvez me poser vos question
 3. Faites quelques exercices de la zone Elementary sur [CheckIO](https://py.checkio.org/) (le site sur lequel j'ai passé mon premier mois de Python).
    
    Workflow:
-    - Définir mentalement un algorithme qui résoudrait l'exercice (e.g. sir
+    - Définir mentalement un algorithme qui résoudrait l'exercice
     - Voir si des fonctions utiles existent dans la standard library
       - E.g. ne faites pas un dict {"A": "a", ...} pour mettre tous les nt d'une seq en minuscule, vous avez:
           
