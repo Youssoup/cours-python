@@ -16,16 +16,18 @@ Je suis souvent (tout le temps) sur le campus, vous pouvez me poser vos question
   
     [PyCharm Educational](https://www.jetbrains.com/pycharm-edu/download/#section=windows-version) est beaucoup plus lourd, mais très intuitif et souvent recommandé aux débutants.
     
+    Pour ceux qui ont installé Anaconda (voir cours), vous pouvez utiliser Spyder.
+    
   - Option 3:
   
     Si vous venez pas aux cours suivants et ne voulez rien installer, vous pouvez utiliser la console [IPython](https://www.tutorialspoint.com/ipython_terminal_online.php) (taper x? pour avoir l'aide sur x) ou un [IDLE online](https://pythonroom.com/).
 
-3. Faites quelques exercices de la zone Elementary sur [CheckIO](https://py.checkio.org/).
+3. Faites quelques exercices de la zone Elementary sur [CheckIO](https://py.checkio.org/) (le site sur lequel j'ai passé mon premier mois de Python).
    
    Workflow:
-    - Définir mentalement un algorithme qui résoudrait l'exercice
+    - Définir mentalement un algorithme qui résoudrait l'exercice (e.g. sir
     - Voir si des fonctions utiles existent dans la standard library
-      - E.g. ne faites pas un dict pour mettre tous les nt d'une seq en minuscule, vous avez:
+      - E.g. ne faites pas un dict {"A": "a", ...} pour mettre tous les nt d'une seq en minuscule, vous avez:
           
           ```python
           seq.lower()
@@ -39,10 +41,10 @@ Je suis souvent (tout le temps) sur le campus, vous pouvez me poser vos question
           ```
           
     - Résoudre l'exercice
-    - Lire les solutions des autres
+    - Lire les ~3 meilleures solutions publiées par les autres (celles de Veky sont toujours intéressantes)
     
 
-4. Si vous avez installé un IDE, vous aurez accès à la liste de toutes les méthodes pou chaque objet et la documentation correspondante.
+4. Si vous avez installé un IDE, vous aurez accès à la liste de toutes les méthodes pour chaque objet et la documentation correspondante.
 
    Alternativement, vous pouvez lire la docu sur [python.org](https://docs.python.org/3/library/index.html) (e.g. pour les [str](https://docs.python.org/3/library/stdtypes.html#str.replace)).
 
