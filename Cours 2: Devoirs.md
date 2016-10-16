@@ -4,7 +4,7 @@ Merci à tous pour ce cours! J'espère que vous vous sentez plus à l'aise en Py
 
 Les devoirs pour la semaine qui vient:
 
-1. Installer pip (on en aura besoin pour le cours 3)
+**1. Installer pip (on en aura besoin pour le cours 3)**
 
   Sur Windows:
   
@@ -28,20 +28,20 @@ Les devoirs pour la semaine qui vient:
     - On a pas essayé sur Mac je crois, ils disent [ici](https://docs.python.org/3/using/mac.html#getting-and-installing-macpython) que ça fonctionne tout de suite, mais si ça marche pas, vous pouvez suivre les instructions d'[ici](https://stackoverflow.com/questions/20082935/how-to-install-pip-for-python3-on-mac-os-x) ou d'[ici](https://pip.pypa.io/en/stable/installing/#installing-with-get-pip-py) (comme pour Windows).
     - Désinstaller-réinstaller Python 3.5 est la solution brute force
     
-2. Si vous arrivez pas à installer, venez me voir avant samedi, je le ferai rapidement moi-même (envoyez un message au 06 51 46 73 65, n'hésitez surtout pas).
+**2.** Si vous arrivez pas à installer, **venez me voir avant samedi**, je le ferai rapidement moi-même (envoyez un message au 06 51 46 73 65, n'hésitez surtout pas).
 
-3. Lisez le cours 2: il n'est pas nécessaire d'installer BioPython pour refaire les exercices, BioPython a été créé pour les biologistes, pas les bio-informaticiens, donc c'est excessivement simple.
+**3. Lisez le cours 2**: il n'est pas nécessaire d'installer BioPython pour refaire les exercices, BioPython a été créé pour les biologistes, pas les bio-informaticiens, donc c'est excessivement simple.
 
-   Si vous installez BioPython, je vous interdis de l'utiliser en-dehors des exercices du cours, il faut que vous appreniez à coder les ce dont vous avez besoin vous-mêmes.
+   Si vous installez BioPython, je vous interdis de l'utiliser en-dehors des exercices du cours, il faut que vous appreniez à coder vous-mêmes ce dont vous avez besoin.
 
-3. Entraînez-vous sur CheckIO ou [Rosalind](http://rosalind.info/problems/locations/) (dans Bioinformatics Stronghold).
+**3. Entraînez-vous sur CheckIO ou [Rosalind](http://rosalind.info/problems/locations/) (dans Bioinformatics Stronghold).**
 
    Rosalind est très apprécié des bio-informaticiens (c'est toujours mentionné quand quelqu'un demande comment apprendre la bio-informatique). Les problèmes sont bien faits, les concepts liés aux exercices sont expliqués, etc. Les exercices du début sont un peu répétitifs, mais ça devient vite difficile.
 
    Si vous devez choisir entre les 2 sites, je vous demande de travailler sur CheckIO: Rosalind correspond plus au type de problèmes auxquels vous serez confrontés en bio-informatique, mais CheckIO vous rend un meilleur programmeur. Bien entendu, vous pouvez utiliser les 2 sites.
 
-4. Aurélie m'a demandé une sélection d'exercices: je suis allé faire un tour dans Elementary et dans Scientific Expedition et je pense qu'ils sont tous utiles. Contrairement à Rosalind, CheckIO est un site de programmation general purpose, donc les exercices font appel à tout l'éventail des capacités de Python et enseignent principalement à réfléchir comme un programmeur. Faites tous les problèmes que vous pouvez, vous apprendrez à construire une vision très abstraite et logique de chaque problème, ce qui nous servira dès le cours suivant.
+**4.** Aurélie m'a demandé une sélection d'exercices: je suis allé faire un tour dans Elementary et dans Scientific Expedition et je pense qu'ils sont tous utiles. Contrairement à Rosalind, CheckIO est un site de programmation general purpose, donc les exercices font appel à tout l'éventail des capacités de Python et enseignent principalement à réfléchir comme un programmeur. **Faites autant de problèmes que vous pouvez**, vous apprendrez à construire une vision très abstraite et logique de chaque problème, ce qui nous servira dès le cours suivant.
 
-Je vais essayer de trouver un bon site pour faire un groupe de discussion, on pourra s'entraider. Je vous préviendrai quand ce sera fait.
+Je vais essayer de trouver un bon site pour faire un **groupe de discussion**, on pourra s'entraider. Je vous préviendrai quand ce sera fait.
 
-Merci encore pour le cours, passez une bonne semaine.
+Merci encore pour le cours, passez une bonne semaine!
