@@ -2,4 +2,4 @@
 
 Cours et devoirs.
 
-Je posterai ce soir: cours, devoirs, lien vers groupe de discussion, checkez demain matin.
+On se retrouve sur [python-ml.slack.com]().
