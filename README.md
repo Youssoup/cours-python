@@ -2,4 +2,4 @@
 
 Cours et devoirs.
 
-On se retrouve sur [python-ml.slack.com](python-ml.slack.com).
+On se retrouve sur [python-ml.slack.com](https://python-ml.slack.com).
