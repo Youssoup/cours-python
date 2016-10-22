@@ -2,4 +2,4 @@
 
 Cours et devoirs.
 
-***Cours 3 => C1 Delwaulle.***
+Je posterai ce soir: cours, devoirs, lien vers groupe de discussion, checkez demain matin.
